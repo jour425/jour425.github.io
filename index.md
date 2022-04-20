@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Students from Underrepresented Minorities Pursuing Teaching</title>
+	<meta name="description" content="A project by University of Illinois journalism students about University of Illinois education students">
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lora">
+	<style>
+		body {
+			background-color: #ecf2f3;
+		}
+		em {
+			color: #fe621d;
+		}
+		H1 {
+			font-family: Montserrat;
+			color: Black;
+			font-weight: 900;
+			text-transform: uppercase;
+			font-size: 48px;
+		}
+		H2 {
+			font-family: 'source sans pro', 'sans-serif';
+			color: black;
+			font-weight: 600;
+			text-transform:  uppercase;
+			font-size: 30px;
+		}
+		p {
+			font-family: 'lora', 'serif';
+			color:  #5a5a5a;
+			font-weight: 400;
+			font-size: 14px;
+		}
+		figcaption {
+			font-family: 'source sans pro', 'sans-serif';
+			color: #5a5a5a;
+			font-weight: 400;
+			font-size: 11px;
+		}
+        .topnav {
+            background-color: black;
+            overflow: hidden;
+        }
+        .topnav a {
+            font-family: 'source sans pro';
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+            font-weight: 900;
+        }
+        .topnav a.active {
+            background-color: #fe621d;
+            color: white;
+            font-weight: 900;
+        }
+        figure {
+  			float: right;
+  			width: 40%;
+		  	text-align: right;
+		  	margin: 2em;
+        }
+        .main-content {
+        	margin: 2em;
+        }
+	</style>
+</head>
+<body>
+    <div class="header">
+     	<h1>Students From Underrepresented Backgrounds Pursuing Teaching</h1>
+    </div>
+    <div class="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="#enrollment data">Enrollment data</a>
+        <a href="#student experiences">Student Experiences</a>
+        <a href="#what's changing">What's Changing</a>
+        <a href="#about us">About us</a>
+    </div>
 
-You can use the [editor on GitHub](https://github.com/jsidneymalone/jsidneymalone.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+  	<figure>
+    	<img src="https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/media/images/Blog/teaching-school-administration/femaleteacher_0.jpg" alt="woman teaches a class of students" width="100%" height="100%">
+    	<figcaption>This is where the caption will go</figcaption>
+    </figure>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsidneymalone/jsidneymalone.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <div class="main-content">
+    	<p>
+    	The state of Illinois is facing a shortage of teachers, but schools have long struggled to find educators who are members of racial or ethnic minorities.
+    	</p>
+    </div>
+</body>
+</html>
