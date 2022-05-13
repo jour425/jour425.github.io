@@ -64,3 +64,44 @@ body {
         .main-content {
         	margin: 2em;
         } 
+        .title {
+        	font-size: 36px;
+        }
+        #footer {
+						padding-top: 40px;
+						padding-bottom: 40px;
+					}
+
+					.foot-logo {
+						font-size: 24px;
+					}
+
+					.foot-links {
+						font-size: 24px;
+					}
+					a {
+						text-decoration: none;
+						color:  inherit;
+					}
+					.footer-col {
+						display:  inline-block;
+						margin-bottom: 20px;
+						vertical-align: top;
+						width:  32%;
+					}
+
+					.footer-col.col-two {
+						text-align: center;
+					}
+
+					.foot-wrapper {
+						text-align: center;
+						margin:0, auto
+					}
+
+					.main-content-wrapper {
+						width: 95%;
+						margin: auto;
+						overflow:hidden;
+						padding-bottom: 50px;
+					}
